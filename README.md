@@ -1,6 +1,6 @@
 # **Proyecto de Ingeniería de Software: Pool Center**  
 
-📊 **[📎 Tablas de Tiempo (Excel)](https://uvggt-my.sharepoint.com/:x:/g/personal/dom23712_uvg_edu_gt/EUgQrTIrUpFAniHmPVKOkMgBpe8mOYMGeu7dMtbWkCK0-Q){:target="_blank"}**  
+📊 **[📎 Tablas de Tiempo (Excel)](https://uvggt-my.sharepoint.com/:x:/g/personal/dom23712_uvg_edu_gt/EUgQrTIrUpFAniHmPVKOkMgBpe8mOYMGeu7dMtbWkCK0-Q)**  
 
 ## **Descripción del Proyecto**  
 Pool Center es un proyecto de ingeniería de software enfocado en [explica brevemente el propósito del proyecto]. A lo largo del desarrollo, se han seguido metodologías de diseño centradas en el usuario para garantizar una solución efectiva y funcional.  
@@ -17,7 +17,7 @@ En esta fase inicial se estableció el brief del proyecto definiendo:
 - **🛠 Frame Qué, Cómo y Por qué:** Para entender mejor el contexto y la relevancia del problema.  
 - **📊 Framework AEIOU:** Para analizar actividades, entornos, interacciones, objetos y usuarios dentro del problema identificado.  
 
-📝 **[📎 Documento del Avance y Corte 1](https://uvggt-my.sharepoint.com/:w:/g/personal/que23643_uvg_edu_gt/ERg89WmeAbtEmwBxjP-GRDwB0pkCtx3xjirWQgC_VB5krg?e=IiTQYu){:target="_blank"}**  
+📝 **[📎 Documento del Avance y Corte 1](https://uvggt-my.sharepoint.com/:w:/g/personal/que23643_uvg_edu_gt/ERg89WmeAbtEmwBxjP-GRDwB0pkCtx3xjirWQgC_VB5krg?e=IiTQYu)**  
 
 ---  
 
@@ -27,7 +27,7 @@ En esta fase se profundizó en el conocimiento de la empresa y sus usuarios medi
 🔹 **Mapas de Empatía** 🧠 para representar mejor las necesidades y percepciones de los usuarios.  
 🔹 **Identificación de problemas clave** y exploración de soluciones preliminares con la pregunta *“¿Cómo podríamos...?”*.  
 
-📝 **[📎 Documento del Avance y Corte 1](https://uvggt-my.sharepoint.com/:w:/g/personal/que23643_uvg_edu_gt/ERg89WmeAbtEmwBxjP-GRDwB0pkCtx3xjirWQgC_VB5krg?e=IiTQYu){:target="_blank"}**  
+📝 **[📎 Documento del Avance y Corte 1](https://uvggt-my.sharepoint.com/:w:/g/personal/que23643_uvg_edu_gt/ERg89WmeAbtEmwBxjP-GRDwB0pkCtx3xjirWQgC_VB5krg?e=IiTQYu)**  
 
 ---  
 
@@ -37,7 +37,7 @@ Para encaminar el desarrollo de la solución final, se utilizó la metodología 
 ✅ **Votación** para seleccionar las ideas más prometedoras.  
 📌 **Definición de la solución final**, consolidando los conceptos más votados y alineándolos con las necesidades detectadas en fases anteriores.  
 
-📝 **[📎 Documento del Avance 2](https://uvggt-my.sharepoint.com/:w:/g/personal/que23643_uvg_edu_gt/EVf8_xdgSG9CmQj1pmH17-4BmUELU4bMdTj8ubsZISvurg){:target="_blank"}**  
+📝 **[📎 Documento del Avance 2](https://uvggt-my.sharepoint.com/:w:/g/personal/que23643_uvg_edu_gt/EVf8_xdgSG9CmQj1pmH17-4BmUELU4bMdTj8ubsZISvurg)**  
 
 ---  
 
